@@ -76,9 +76,9 @@ export const EXPERIENCE_DATA: ExperienceItem[] = [
 
 export const EDUCATION_DATA: EducationItem[] = [
     {
-        degree: 'B.Tech in Electronics and Telecommunication',
-        institution: 'G. H. Raisoni Pune',
-        period: '2019 - 2023'
+        degree: 'Master of Science in Computer Science',
+        institution: 'University of Technology',
+        period: '2016 - 2018'
     },
     {
         degree: 'Bachelor of Science in Software Engineering',
