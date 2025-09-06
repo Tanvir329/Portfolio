@@ -25,13 +25,13 @@ const Contact: React.FC = () => {
         <div className="mt-12">
             <p className="mb-4">Or find me on:</p>
             <div className="flex justify-center space-x-6">
-                <a href="#" className="text-gray-500 dark:text-gray-400 hover:text-primary transition-colors">
+                <a href="https://github.com/Tanvir329" className="text-gray-500 dark:text-gray-400 hover:text-primary transition-colors">
                     <GithubIcon className="w-8 h-8" />
                 </a>
-                <a href="#" className="text-gray-500 dark:text-gray-400 hover:text-primary transition-colors">
+                <a href="https://www.linkedin.com/in/tanvir-attar-728500190/" className="text-gray-500 dark:text-gray-400 hover:text-primary transition-colors">
                     <LinkedinIcon className="w-8 h-8" />
                 </a>
-                <a href="mailto:email@example.com" className="text-gray-500 dark:text-gray-400 hover:text-primary transition-colors">
+                <a href="mailto:attartanvir007@gmail.com" className="text-gray-500 dark:text-gray-400 hover:text-primary transition-colors">
                     <MailIcon className="w-8 h-8" />
                 </a>
             </div>

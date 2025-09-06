@@ -23,10 +23,10 @@ const Hero: React.FC = () => {
                 Download Resume
             </a>
             <div className="flex space-x-4">
-                <a href="#" aria-label="GitHub Profile" className="p-3 rounded-full bg-gray-200 dark:bg-gray-700 hover:bg-primary hover:text-white dark:hover:bg-primary transition-all duration-300">
+                <a href="https://github.com/Tanvir329" aria-label="GitHub Profile" className="p-3 rounded-full bg-gray-200 dark:bg-gray-700 hover:bg-primary hover:text-white dark:hover:bg-primary transition-all duration-300">
                     <GithubIcon className="w-6 h-6" />
                 </a>
-                <a href="#" aria-label="LinkedIn Profile" className="p-3 rounded-full bg-gray-200 dark:bg-gray-700 hover:bg-primary hover:text-white dark:hover:bg-primary transition-all duration-300">
+                <a href="https://www.linkedin.com/in/tanvir-attar-728500190/" aria-label="LinkedIn Profile" className="p-3 rounded-full bg-gray-200 dark:bg-gray-700 hover:bg-primary hover:text-white dark:hover:bg-primary transition-all duration-300">
                     <LinkedinIcon className="w-6 h-6" />
                 </a>
                 <a href="mailto:attartanvir007@gmail.com" aria-label="Send Email" className="p-3 rounded-full bg-gray-200 dark:bg-gray-700 hover:bg-primary hover:text-white dark:hover:bg-primary transition-all duration-300">
